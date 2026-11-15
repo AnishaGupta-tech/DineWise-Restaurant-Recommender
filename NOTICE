@@ -1,0 +1,7 @@
+Dataset notice
+
+The files in RCdata/ are the "Restaurant & Consumer Data" from the UCI Machine
+Learning Repository (donated by Blanca Vargas-Govea and Juan Gabriel
+Gonzalez-Serna, CENIDET, Mexico), licensed CC BY 4.0. The MIT licence in
+LICENSE covers the code and documentation only. See RCdata/README for the
+dataset description and citation.
